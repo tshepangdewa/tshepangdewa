@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/tshepangdewa">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=698&text=Hello!%20I'm%20Tshepang" alt="Hello! I&#39;m Tshepang" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=698&text=Hello!%20I'm%20Tshepang" alt="Tshepang Dewa" />
   </a>
 </p>
 
