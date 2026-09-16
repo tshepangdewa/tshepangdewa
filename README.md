@@ -12,7 +12,7 @@
 
 Computer Science student and aspiring Software Engineer.
 
-🌱 &nbsp;I'm currently learning **React, APIs**
+🌱 &nbsp;I'm currently learning **React, and APIs**
 
 ### 🛠️ Tech Stack
 
